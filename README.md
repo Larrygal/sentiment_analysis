@@ -1,12 +1,12 @@
 # Amazon Reviews Sentiment Analysis
 ## Project Overview
 
-This project implements Natural Language Processing (NLP) techniques to classify Amazon product reviews into positive and negative sentiments. Both traditional machine learning models (Naïve Bayes, Logistic Regression) and deep learning models (RNN, LSTM) are used to compare performance and evaluate model effectiveness.
+This project explores Natural Language Processing (NLP) techniques to classify Amazon product reviews into positive and negative sentiments. Both traditional machine learning models (Naïve Bayes, Logistic Regression) and deep learning models (RNN, LSTM) are used to compare performance and evaluate model effectiveness.
 
 The goal is to demonstrate how NLP can be applied for sentiment analysis in e-commerce, helping businesses understand customer opinions, improve products, and detect potential fraud.
 ## Key Features
 
-Preprocessing Pipeline:
+Preprocessing:
 
 Lowercasing, punctuation removal, tokenization, and stop-word removal
 
